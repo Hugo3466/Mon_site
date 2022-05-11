@@ -1,0 +1,78 @@
+td{
+    border:1px green solid;
+    padding:20px;
+}
+#banniere{
+    background-image:url("téléchargement.png");
+    height:400px;
+    width:60%;
+    margin:auto;
+}
+
+th{
+    /*border: 2px solid red;*/
+    background-color: blueviolet;
+    color:coral;
+    border-color:green;
+    }
+    body{
+    
+        background-image: url("https://f.hellowork.com/blogdumoderateur/2013/02/nyan-cat-gif-1.gif")
+    }
+#carte
+{ width: 800px;
+    margin:auto;
+    background-color:white;
+    text-align: center;
+    align-content: center;
+       }
+
+#footer{
+    background : black;
+    width:92.5%;
+    justify-content: center;/*centrer horizentalement*/
+    display:flex;
+    padding:30px;
+    margin-left:auto;/* pour centrer notre body ou autre bloc- marge "auto" et indiquer un width*/
+    margin-right: auto;/* pour centrer notre body ou autre bloc-marge "auto" et indiquer un width*/
+    /*margin:0px auto;
+    position:relative;*/
+}
+
+#footer{
+    font-size:20px ;
+    color:darkgoldenrod;
+}
+
+a{
+    text-decoration:none;
+    font-size: 20px;
+    color:blue;
+
+}
+
+div{
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+#g{
+       
+    background-image:url"https://f.hellowork.com/blogdumoderateur/2013/02/nyan-cat-gif-1.gif";
+
+}
+
+h1{ font-size:30px
+
+}
+
+h2{ font-size:25px
+
+}
+
+table{
+    text-align:center;
+}
+.stp{background-color:yellow;
+
+}
